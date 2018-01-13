@@ -1,0 +1,9 @@
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\bin\Debug\netcoreapp2.0\DomainModel.deps.json
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\bin\Debug\netcoreapp2.0\DomainModel.dll
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\bin\Debug\netcoreapp2.0\DomainModel.pdb
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.csproj.CoreCompileInputs.cache
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.AssemblyInfoInputs.cache
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.AssemblyInfo.cs
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.dll
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.pdb
+D:\SoftserveAcademy\Pets-Search-Home\PetsSearchHome\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.csprojResolveAssemblyReference.cache
