@@ -12,4 +12,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EntityFramework\DAL.EF.csproj" />
+  </ItemGroup>
+
 </Project>
