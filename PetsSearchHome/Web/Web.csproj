@@ -18,4 +18,12 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic\BLL.csproj" />
+    <ProjectReference Include="..\DataAccess\DAL.csproj" />
+    <ProjectReference Include="..\DomainModel\DM.csproj" />
+    <ProjectReference Include="..\EntityFramework\DAL.EF.csproj" />
+    <ProjectReference Include="..\Enums\Enums.csproj" />
+  </ItemGroup>
+
 </Project>
