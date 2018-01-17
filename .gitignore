@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PetsSearchHome/Web/obj/Debug/netcoreapp2.0/Web.csproj.CopyComplete
+/PetsSearchHome/BusinessLogic/obj
+/PetsSearchHome/DataAccess/bin/Debug/netcoreapp2.0
+/PetsSearchHome/DataAccess/obj/Debug/netcoreapp2.0
+/PetsSearchHome/DataAccess/obj
+/PetsSearchHome/BusinessLogic/bin/Debug/netcoreapp2.0
+/PetsSearchHome/DomainModel/bin/Debug/netcoreapp2.0
+/PetsSearchHome/DomainModel/obj/Debug/netcoreapp2.0
+/PetsSearchHome/EntityFramework/bin/Debug/netcoreapp2.0
+/PetsSearchHome/DomainModel/obj
+/PetsSearchHome/EntityFramework/obj/Debug/netcoreapp2.0
+/PetsSearchHome/Enums/bin/Debug/netcoreapp2.0
+/PetsSearchHome/EntityFramework/obj
+/PetsSearchHome/Enums/obj/Debug/netcoreapp2.0
+/PetsSearchHome/Web/bin/Debug/netcoreapp2.0
+/PetsSearchHome/Enums/obj
+/PetsSearchHome/.vs/PetsSearchHome/v15/Server/sqlite3/storage.ide-shm
+/PetsSearchHome/.vs/PetsSearchHome/v15/Server/sqlite3/storage.ide-wal
